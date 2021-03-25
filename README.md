@@ -43,6 +43,7 @@ I'm a Platzi Master program student at **[Platzi](https://platzi.com/p/fertorres
 I also have a blog and you can find my articles on my website at [fertorresmx.dev](https://fertorresmx.dev/) as well as on a personal ghost [blog](https://torresmx.dev/)
 
 <h2 align="center">🔧 Technologies & Tools</h2>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-ffd340?style=for-the-badge&logo=python&logoColor=black" alt="Python badge" />
   <img src="https://img.shields.io/badge/Pandas-E0E0E2?style=for-the-badge&logo=pandas&logoColor=black" alt="Pandas badge" />
@@ -61,7 +62,12 @@ I also have a blog and you can find my articles on my website at [fertorresmx.de
   <img src="https://img.shields.io/badge/github%20-%230d1117.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
 </p>
 
+<h2 align="center">🧩 Hacker Rank Badges</h2>
+<div align="center">
+  <img height="90em" src="https://media-exp1.licdn.com/dms/image/sync/C5627AQGiJt7HG22ZfQ/articleshare-shrink_800/0/1616708549390?e=1616796000&v=beta&t=UWiFVaWwLch63bluswEVmykWYZsoz0jZoGa-sw5o6Fc">
+</div>
 
+<h2 align="center">📊 My Stats</h2>
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoTorresL&show_icons=true&theme=tokyonight">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=fertorresmx&theme=tokyonight&layout=compact">
