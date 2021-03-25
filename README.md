@@ -10,7 +10,7 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align='justify'>
-Welcome to my GitHub profile. I want to become a Data Scientist and to colaborate in bussiness apassionated for web technologies, math aplications and data solutions. I love to learn new things everyday.
+Welcome to my GitHub profile. I want to become a Data Scientist and to colaborate in bussiness apassionated for web technologies, math applications and data solutions. I love to learn new things everyday.
 </p>
 
 <div align="center">
@@ -37,6 +37,10 @@ I'm a Platzi Master program student at **[Platzi](https://platzi.com/p/fertorres
 - 💬 Ask me about modern Boardgames, Flight Simulator, molds
 - 🏫 Right now teaching about Tableau basic just for fun
 - ⚡ Fun fact: Can solve rubik cube on two minutes
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/fertorresmx"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=fertorresmx&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></a>
+</p>
 
 <h2 align="center">&#x270d; Blog & Writing</h2>
 
