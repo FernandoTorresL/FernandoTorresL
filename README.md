@@ -56,7 +56,7 @@ I also have a blog and you can find my articles on my website at [fertorresmx.de
 <h2 align="justify">📊 My Stats</h2>
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoTorresL&show_icons=true&theme=tokyonight">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=fertorresmx&theme=tokyonight&layout=compact">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=fertorresmx&theme=tokyonight&show_icons=true&layout=compact&range=last_7_days&custom_title=Wakatime+Stats+-+Last+7  days&show_icons=true">
 </div>
 
 <div align="center">
