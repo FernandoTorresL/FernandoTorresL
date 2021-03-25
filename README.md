@@ -1,4 +1,8 @@
-[![Header](https://raw.githubusercontent.com/FernandoTorresL/FernandoTorresL/main/media/logoFerTorres.png "Header")](https://fertorresmx.dev)
+<div align="center">
+  <a href="https://fertorresmx.dev/">
+    <img height="300em" src="https://raw.githubusercontent.com/FernandoTorresL/FernandoTorresL/main/media/logoFerTorres_iniciales.png">
+  </a>
+</div>
 ## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 I’m currently coding on this repo: [WordCloud conferences analysis](https://github.com/FernandoTorresL/scraping-conferencias/)
@@ -18,10 +22,19 @@ Welcome to my GitHub profile. I want to become a Data Scientist and to colaborat
   <a href="mailto:fertorresmx@gmail.com?subject=Hola%20Fer"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/fertorresmx"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+<br>
+
+<div align="center">
+  <a href="https://platzi.com/home/"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--eHb1ssfH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/6ew3baia5a26hf9744pr.png" width="75">
+  </a>
+
+</div>
+
+Student of **[Platzi](https://platzi.com/p/fertorresmx/)** Data Science and fullstack path as a PlatziMaster program first class student, exclusive optioni only for top best students, it's an intensive training and technical coaching program.
 
 <h2 align="center">&#x270d; Blog & Writing</h2>
 
-Apart from coding, I also have a blog - you can find my articles on my website at [fertorresmx.dev](https://fertorresmx.dev/) as well as on a ghost [blog](https://torresmx.dev/)
+I also have a blog and you can find my articles on my website at [fertorresmx.dev](https://fertorresmx.dev/) as well as on a personal ghost [blog](https://torresmx.dev/)
 
 <h2 align="center">🔧 Technologies & Tools</h2>
 <p align="center">
@@ -41,10 +54,23 @@ Apart from coding, I also have a blog - you can find my articles on my website a
   <img src="https://img.shields.io/badge/git-9E1C00?style=for-the-badge&logo=git&logoColor=white" alt="Git badge" />
   <img src="https://img.shields.io/badge/github%20-%230d1117.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
 </p>
+<br>
+
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoTorresL&show_icons=true&theme=tokyonight">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=fertorresmx&theme=tokyonight&layout=compact">
+</div>
+<br>
+
+<div align="center">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=FernandoTorresL&theme=black-ice&fire=6600AF&currStreakNum=6600AF&ring=6600AF&currStreakLabel=6600AF">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FernandoTorresL&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
 
+<!--   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoTorresL&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoTorresL&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fertorresmx&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fertorresmx&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoTorresL&theme=tokyonight&layout=compact" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoTorresL&theme=tokyonight&layout=compact" /> -->
+
