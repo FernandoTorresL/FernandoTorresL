@@ -7,10 +7,6 @@
 <!--
 **FernandoTorresL/FernandoTorresL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<<<<<<< HEAD
-=======
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoTorresL)](https://github.com/FernandoTorresL/github-readme-stats)
->>>>>>> fc4b984d25694864e92cc6ad7548ab000c81221f
 
 Here are some ideas to get you started:
 
