@@ -2,6 +2,8 @@
   <a href="https://fertorresmx.dev/">
     <img height="300em" src="https://raw.githubusercontent.com/FernandoTorresL/FernandoTorresL/main/media/logoFerTorres.png">
   </a>
+
+
 </div>
 
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
@@ -17,6 +19,8 @@ Welcome to my GitHub profile. I want to become a Data Scientist and to colaborat
 </div>
 
 I'm a Platzi Master program student at **[Platzi](https://platzi.com/p/fertorresmx/)** on a Data Science and fullstack path. Platzi Master is an exclusive an intensive training and technical coaching program only for top best students.
+
+![](https://komarev.com/ghpvc/?username=FernandoTorresL)
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/fertorresmx"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -74,7 +78,6 @@ I also have a blog and you can find my articles on my website at [fertorresmx.de
   [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fertorresmx&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoTorresL&theme=tokyonight&layout=compact" /> -->
-<br>
 
 <div align="center">
   <a href="https://fertorresmx.dev/">
