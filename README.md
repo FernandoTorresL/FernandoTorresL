@@ -2,6 +2,9 @@
 
 ### Hi there 👋
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoTorresL&theme=tokyonight" />
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoTorresL&show_icons=true&theme=tokyonight)](https://github.com/FernandoTorresL/github-readme-stats)
 
 <img src="https://github.com/fertorresmx/FernandoTorresL/blob/master/images/codeStats.svg" alt="My Coding Activity"/>
