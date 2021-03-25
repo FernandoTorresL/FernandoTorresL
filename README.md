@@ -2,11 +2,8 @@
     <a href="https://fertorresmx.dev/">
         <img height="300em" src="https://raw.githubusercontent.com/FernandoTorresL/FernandoTorresL/main/media/logoFerTorres.png">
     </a>
-    <img src="https://komarev.com/ghpvc/?username=FernandoTorresL">
 </div>
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/FernandoTorresL/FernandoTorresL)](https://github.com/FernandoTorresL/FernandoTorresL/commits/master)
-[![GitHub repo size](https://img.shields.io/github/repo-size/FernandoTorresL/FernandoTorresL)](https://github.com/FernandoTorresL/FernandoTorresL/archive/master.zip)
 <p align='center'>
     <a href="https://www.linkedin.com/in/fertorresmx"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:fertorresmx@gmail.com?subject=Hola%20Fer"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -20,12 +17,11 @@
 - 🤔 I’m looking for help with time management
 - 💬 Ask me about modern Boardgames, Flight Simulator, molds
 - 🏫 Right now teaching about Tableau basic just for fun
-- ⚡ Fun fact: Can solve rubik cube on two minutes
+- ⚡ Fun facts: Can solve rubik cube on two minutes. I'm virtual pilot and ATC on IVAO network
 
 <p align='justify'>
     Welcome to my GitHub profile. I want to become a Data Scientist and to colaborate in bussiness apassionated for web technologies, math applications and data solutions. I love to learn new things everyday.
-
-    I'm a Platzi Master program student at **[Platzi](https://platzi.com/p/fertorresmx/)** on a Data Science and fullstack path. Platzi Master is an exclusive an intensive training and technical coaching program only for top best students.
+    I'm a Platzi Master program student at <a href="https://platzi.com/p/fertorresmx/" />Platzi</a> on a Data Science and fullstack path. Platzi Master is an exclusive an intensive training and technical coaching program only for top best students.
 </p>
 
 <h2 align="justify">🔧 Technologies & Tools</h2>
@@ -77,6 +73,12 @@ I also have a blog and you can find my articles on my website at [fertorresmx.de
       <img height="150em" src="https://raw.githubusercontent.com/FernandoTorresL/FernandoTorresL/main/media/FerTorres-dev1.png">
   </a>
 </div>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=FernandoTorresL">
+
+[![GitHub last commit](https://img.shields.io/github/last-commit/FernandoTorresL/FernandoTorresL)](https://github.com/FernandoTorresL/FernandoTorresL/commits/master)
+[![GitHub repo size](https://img.shields.io/github/repo-size/FernandoTorresL/FernandoTorresL)](https://github.com/FernandoTorresL/FernandoTorresL/archive/master.zip)
 
 <!--   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoTorresL&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
