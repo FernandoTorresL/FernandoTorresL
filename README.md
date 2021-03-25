@@ -3,15 +3,8 @@
     <img height="300em" src="https://raw.githubusercontent.com/FernandoTorresL/FernandoTorresL/main/media/logoFerTorres.png">
   </a>
 </div>
-## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently coding on this repo: [WordCloud conferences analysis](https://github.com/FernandoTorresL/scraping-conferencias/)
-- 🧑🏽‍💼 I’m currently working at [IMSS](http://www.imss.gob.mx/)
-- 🌱 I’m currently learning all about Data Scientist
-- 🤔 I’m looking for help with time management
-- 💬 Ask me about modern Boardgames, Flight Simulator, molds
-- 🏫 Right now teaching about Tableau basic just for fun
-- ⚡ Fun fact: Can solve rubik cube on two minutes
+## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align='center'>
 Welcome to my GitHub profile. I want to become a Data Scientist and to colaborate in bussiness apassionated for web technologies, math aplications and data solutions. I love to learn new things everyday.
@@ -31,6 +24,16 @@ Welcome to my GitHub profile. I want to become a Data Scientist and to colaborat
 </div>
 
 Student of **[Platzi](https://platzi.com/p/fertorresmx/)** Data Science and fullstack path as a PlatziMaster program first class student, exclusive optioni only for top best students, it's an intensive training and technical coaching program.
+
+
+
+- 🔭 I’m currently coding on this repo: [WordCloud conferences analysis](https://github.com/FernandoTorresL/scraping-conferencias/)
+- 🧑🏽‍💼 I’m currently working at [IMSS](http://www.imss.gob.mx/)
+- 🌱 I’m currently learning all about Data Scientist
+- 🤔 I’m looking for help with time management
+- 💬 Ask me about modern Boardgames, Flight Simulator, molds
+- 🏫 Right now teaching about Tableau basic just for fun
+- ⚡ Fun fact: Can solve rubik cube on two minutes
 
 <h2 align="center">&#x270d; Blog & Writing</h2>
 
