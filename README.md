@@ -4,18 +4,11 @@
   </a>
 </div>
 
-## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p align='center'>
+<p align='justify'>
 Welcome to my GitHub profile. I want to become a Data Scientist and to colaborate in bussiness apassionated for web technologies, math aplications and data solutions. I love to learn new things everyday.
 </p>
-
-<p align='center'>
-  <a href="https://www.linkedin.com/in/fertorresmx"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:fertorresmx@gmail.com?subject=Hola%20Fer"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/fertorresmx"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-<br>
 
 <div align="center">
   <a href="https://platzi.com/home/"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--eHb1ssfH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/6ew3baia5a26hf9744pr.png" width="75">
@@ -23,9 +16,14 @@ Welcome to my GitHub profile. I want to become a Data Scientist and to colaborat
 
 </div>
 
-Student of **[Platzi](https://platzi.com/p/fertorresmx/)** Data Science and fullstack path as a PlatziMaster program first class student, exclusive optioni only for top best students, it's an intensive training and technical coaching program.
+I'm a Platzi Master program student at **[Platzi](https://platzi.com/p/fertorresmx/)** on a Data Science and fullstack path. Platzi Master is an exclusive an intensive training and technical coaching program only for top best students.
 
-
+<p align='center'>
+  <a href="https://www.linkedin.com/in/fertorresmx"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:fertorresmx@gmail.com?subject=Hola%20Fer"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/fertorresmx"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<br>
 
 - 🔭 I’m currently coding on this repo: [WordCloud conferences analysis](https://github.com/FernandoTorresL/scraping-conferencias/)
 - 🧑🏽‍💼 I’m currently working at [IMSS](http://www.imss.gob.mx/)
@@ -57,13 +55,13 @@ I also have a blog and you can find my articles on my website at [fertorresmx.de
   <img src="https://img.shields.io/badge/git-9E1C00?style=for-the-badge&logo=git&logoColor=white" alt="Git badge" />
   <img src="https://img.shields.io/badge/github%20-%230d1117.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
 </p>
-<br>
+
 
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoTorresL&show_icons=true&theme=tokyonight">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=fertorresmx&theme=tokyonight&layout=compact">
 </div>
-<br>
+
 
 <div align="center">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=FernandoTorresL&theme=black-ice&fire=6600AF&currStreakNum=6600AF&ring=6600AF&currStreakLabel=6600AF">
@@ -76,7 +74,6 @@ I also have a blog and you can find my articles on my website at [fertorresmx.de
   [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fertorresmx&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoTorresL&theme=tokyonight&layout=compact" /> -->
-<br>
 <br>
 
 <div align="center">
