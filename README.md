@@ -3,9 +3,10 @@
     <img height="300em" src="https://raw.githubusercontent.com/FernandoTorresL/FernandoTorresL/main/media/logoFerTorres.png">
   </a>
 
-
 </div>
 
+[![GitHub last commit](https://img.shields.io/github/last-commit/FernandoTorresL/FernandoTorresL)](https://github.com/FernandoTorresL/FernandoTorresL/commits/master)
+[![GitHub repo size](https://img.shields.io/github/repo-size/FernandoTorresL/FernandoTorresL)](https://github.com/FernandoTorresL/FernandoTorresL/archive/master.zip)
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align='justify'>
