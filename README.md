@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/FernandoTorresL/FernandoTorresL/main/logoFerTorres.png "Header")](https://fertorresmx.dev)
+[![Header](https://raw.githubusercontent.com/FernandoTorresL/FernandoTorresL/main/media/logoFerTorres.png "Header")](https://fertorresmx.dev)
 ## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 I’m currently coding on this repo: [WordCloud conferences analysis](https://github.com/FernandoTorresL/scraping-conferencias/)
