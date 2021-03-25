@@ -2,16 +2,11 @@
 
 ### Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoTorresL&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoTorresL&theme=tokyonight&layout=compact" />
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoTorresL&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoTorresL&show_icons=true&theme=tokyonight)](https://github.com/FernandoTorresL/github-readme-stats)
-
-<img src="https://github.com/fertorresmx/FernandoTorresL/blob/master/images/codeStats.svg" alt="My Coding Activity"/>
-
-[![Wakatime stats](https://wakatime.com/api/v1/users/fertorresmx/stats/last_7_days)](https://github.com/FernandoTorresL/github-readme-stats)
-
-
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fertorresmx&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **FernandoTorresL/FernandoTorresL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
