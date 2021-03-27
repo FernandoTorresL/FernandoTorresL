@@ -88,4 +88,11 @@ I also have a blog and you can find my articles on my website at [fertorresmx.de
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoTorresL&theme=tokyonight&layout=compact" /> -->
 
 <!--START_SECTION:waka-->
+```text
+Python     5 hrs 7 mins    ████████▒░░░░░░░░░░░░░░░░   33.59 % 
+Markdown   4 hrs 24 mins   ███████▒░░░░░░░░░░░░░░░░░   28.83 % 
+Bash       4 hrs           ██████▓░░░░░░░░░░░░░░░░░░   26.20 % 
+CSV        38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+JSON       38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+```
 <!--END_SECTION:waka-->
