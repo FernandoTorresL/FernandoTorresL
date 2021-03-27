@@ -48,10 +48,10 @@
 <h2 align="justify">&#x270d; Blog & Writing </h2> 
 I also have a blog and you can find my articles on my website at [fertorresmx.dev](https://fertorresmx.dev/) as well as on a personal ghost [blog](https://torresmx.dev/)
 
-<h2 align="justify">🧩 Hacker Rank Badges</h2>
+<!-- <h2 align="justify">🧩 Hacker Rank Badges</h2>
 <div align="justify">
     <img height="90em" src="https://media-exp1.licdn.com/dms/image/sync/C5627AQGiJt7HG22ZfQ/articleshare-shrink_800/0/1616708549390?e=1616796000&v=beta&t=UWiFVaWwLch63bluswEVmykWYZsoz0jZoGa-sw5o6Fc">
-</div>
+</div> -->
 
 <h2 align="justify">📊 My Stats</h2>
 <div align="center">
