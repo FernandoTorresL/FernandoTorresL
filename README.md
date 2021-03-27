@@ -27,23 +27,21 @@
 
 <h2 align="justify">🔧 Technologies & Tools</h2>
 
-<p align="justify">
-    <img src="https://img.shields.io/badge/Python-ffd340?style=for-the-badge&logo=python&logoColor=black" alt="Python badge" />
-    <img src="https://img.shields.io/badge/Pandas-E0E0E2?style=for-the-badge&logo=pandas&logoColor=black" alt="Pandas badge" />
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tableau&color=E97627&logo=Tableau&logoColor=FFFFFF&label=" alt="Tableau badge" />
-    <img src="https://img.shields.io/badge/Selenium-509141?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium badge" />
-    <img src="https://img.shields.io/badge/mongodb%20-%2313aa52.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB badge" />
-    <img src="https://img.shields.io/badge/Jupyter-E5E5E5?style=for-the-badge&logo=jupyter&logoColor=orange" alt="Jupyter badge" />
-    <img src="https://img.shields.io/badge/mysql%20-%23016B93.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL badge" />
-    <img src="https://img.shields.io/badge/javascript%20-%23eed915.svg?&style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript badge" />
-    <img src="https://img.shields.io/badge/react%20-%2361dafb.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React badge" />
-    <img src="https://img.shields.io/badge/node.js%20-%23026e00.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js badge" />
-    <img src="https://img.shields.io/badge/html5%20-%23ff470f.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML badge" />
-    <img src="https://img.shields.io/badge/css3%20-%232ea7d9.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS badge" />
-    <img src="https://img.shields.io/badge/git-9E1C00?style=for-the-badge&logo=git&logoColor=white" alt="Git badge" />
-    <img src="https://img.shields.io/badge/github%20-%230d1117.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
-    <img src="https://img.shields.io/badge/VS Code-0C55D3?style=for-the-badge&logo=visual-studio-code&logoColor=black" alt="VS Code badge" />
-</p>
+![Python](https://img.shields.io/badge/Python-ffd340?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-E0E0E2?style=for-the-badge&logo=pandas&logoColor=black)
+![Tableau](https://img.shields.io/static/v1?style=for-the-badge&message=Tableau&color=E97627&logo=Tableau&logoColor=FFFFFF&label=)
+![Selenium](https://img.shields.io/badge/Selenium-509141?style=for-the-badge&logo=selenium&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb%20-%2313aa52.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-E5E5E5?style=for-the-badge&logo=jupyter&logoColor=orange)
+![MySQL](https://img.shields.io/badge/mysql%20-%23016B93.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![Javascript](https://img.shields.io/badge/javascript%20-%23eed915.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/react%20-%2361dafb.svg?&style=for-the-badge&logo=react&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js%20-%23026e00.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5%20-%23ff470f.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3%20-%232ea7d9.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-9E1C00?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github%20-%230d1117.svg?&style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0C55D3?style=for-the-badge&logo=visual-studio-code&logoColor=black)![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=)
 
 <h2 align="justify">&#x270d; Blog & Writing </h2> 
 I also have a blog and you can find my articles on my website at [fertorresmx.dev](https://fertorresmx.dev/) as well as on a personal ghost [blog](https://torresmx.dev/)
