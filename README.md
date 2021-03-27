@@ -27,21 +27,23 @@
 
 <h2 align="justify">🔧 Technologies & Tools</h2>
 
-![Python](https://img.shields.io/badge/Python-ffd340?style=for-the-badge&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-E0E0E2?style=for-the-badge&logo=pandas&logoColor=black)
+![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+![pandas](https://img.shields.io/static/v1?style=for-the-badge&message=pandas&color=150458&logo=pandas&logoColor=FFFFFF&label=)
 ![Tableau](https://img.shields.io/static/v1?style=for-the-badge&message=Tableau&color=E97627&logo=Tableau&logoColor=FFFFFF&label=)
-![Selenium](https://img.shields.io/badge/Selenium-509141?style=for-the-badge&logo=selenium&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb%20-%2313aa52.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-E5E5E5?style=for-the-badge&logo=jupyter&logoColor=orange)
-![MySQL](https://img.shields.io/badge/mysql%20-%23016B93.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![Javascript](https://img.shields.io/badge/javascript%20-%23eed915.svg?&style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/react%20-%2361dafb.svg?&style=for-the-badge&logo=react&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js%20-%23026e00.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5%20-%23ff470f.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3%20-%232ea7d9.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/git-9E1C00?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github%20-%230d1117.svg?&style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0C55D3?style=for-the-badge&logo=visual-studio-code&logoColor=black)![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=)
+![Selenium](https://img.shields.io/static/v1?style=for-the-badge&message=Selenium&color=43B02A&logo=Selenium&logoColor=FFFFFF&label=)
+![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
+![Jupyter](https://img.shields.io/static/v1?style=for-the-badge&message=Jupyter&color=F37626&logo=Jupyter&logoColor=FFFFFF&label=)
+![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
+![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
+![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
+![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
+![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
+![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
+![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
+![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=VS+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
+![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=)
+
 
 <h2 align="justify">&#x270d; Blog & Writing </h2> 
 I also have a blog and you can find my articles on my website at [fertorresmx.dev](https://fertorresmx.dev/) as well as on a personal ghost [blog](https://torresmx.dev/)
@@ -52,6 +54,9 @@ I also have a blog and you can find my articles on my website at [fertorresmx.de
 </div> -->
 
 <h2 align="justify">📊 My Stats</h2>
+
+![WakaTime](https://img.shields.io/static/v1?style=for-the-badge&message=WakaTime&color=000000&logo=WakaTime&logoColor=FFFFFF&label=)
+![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 
 <!--START_SECTION:waka-->
 ```text
