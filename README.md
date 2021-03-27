@@ -32,17 +32,17 @@
     <img src="https://img.shields.io/badge/Pandas-E0E0E2?style=for-the-badge&logo=pandas&logoColor=black" alt="Pandas badge" />
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Tableau&color=E97627&logo=Tableau&logoColor=FFFFFF&label=" alt="Tableau badge" />
     <img src="https://img.shields.io/badge/Selenium-509141?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium badge" />
-    <img src="https://img.shields.io/badge/VS Code-0C55D3?style=for-the-badge&logo=visual-studio-code&logoColor=black" alt="MySQL badge" />
+    <img src="https://img.shields.io/badge/mongodb%20-%2313aa52.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB badge" />
     <img src="https://img.shields.io/badge/Jupyter-E5E5E5?style=for-the-badge&logo=jupyter&logoColor=orange" alt="Jupyter badge" />
     <img src="https://img.shields.io/badge/mysql%20-%23016B93.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL badge" />
-    <img src="https://img.shields.io/badge/react%20-%2361dafb.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React badge" />
     <img src="https://img.shields.io/badge/javascript%20-%23eed915.svg?&style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript badge" />
+    <img src="https://img.shields.io/badge/react%20-%2361dafb.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React badge" />
+    <img src="https://img.shields.io/badge/node.js%20-%23026e00.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js badge" />
     <img src="https://img.shields.io/badge/html5%20-%23ff470f.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML badge" />
     <img src="https://img.shields.io/badge/css3%20-%232ea7d9.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS badge" />
-    <img src="https://img.shields.io/badge/node.js%20-%23026e00.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js badge" />
-    <img src="https://img.shields.io/badge/mongodb%20-%2313aa52.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB badge" />
     <img src="https://img.shields.io/badge/git-9E1C00?style=for-the-badge&logo=git&logoColor=white" alt="Git badge" />
     <img src="https://img.shields.io/badge/github%20-%230d1117.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
+    <img src="https://img.shields.io/badge/VS Code-0C55D3?style=for-the-badge&logo=visual-studio-code&logoColor=black" alt="VS Code badge" />
 </p>
 
 <h2 align="justify">&#x270d; Blog & Writing </h2> 
@@ -54,6 +54,17 @@ I also have a blog and you can find my articles on my website at [fertorresmx.de
 </div> -->
 
 <h2 align="justify">📊 My Stats</h2>
+
+<!--START_SECTION:waka-->
+```text
+Python     5 hrs 7 mins    ████████▒░░░░░░░░░░░░░░░░   33.59 % 
+Markdown   4 hrs 24 mins   ███████▒░░░░░░░░░░░░░░░░░   28.83 % 
+Bash       4 hrs           ██████▓░░░░░░░░░░░░░░░░░░   26.20 % 
+CSV        38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+JSON       38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+```
+<!--END_SECTION:waka-->
+
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoTorresL&show_icons=true&theme=tokyonight">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=fertorresmx&theme=tokyonight&show_icons=true&layout=compact&range=last_7_days&custom_title=Wakatime+Stats+-+Last+7  days&show_icons=true">
@@ -87,12 +98,3 @@ I also have a blog and you can find my articles on my website at [fertorresmx.de
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoTorresL&theme=tokyonight&layout=compact" /> -->
 
-<!--START_SECTION:waka-->
-```text
-Python     5 hrs 7 mins    ████████▒░░░░░░░░░░░░░░░░   33.59 % 
-Markdown   4 hrs 24 mins   ███████▒░░░░░░░░░░░░░░░░░   28.83 % 
-Bash       4 hrs           ██████▓░░░░░░░░░░░░░░░░░░   26.20 % 
-CSV        38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-JSON       38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-```
-<!--END_SECTION:waka-->
