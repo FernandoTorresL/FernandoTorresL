@@ -87,3 +87,5 @@ I also have a blog and you can find my articles on my website at [fertorresmx.de
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoTorresL&theme=tokyonight&layout=compact" /> -->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
