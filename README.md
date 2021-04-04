@@ -64,11 +64,9 @@ I also have a blog and you can find my articles on my website at [fertorresmx.de
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   1 hr 20 mins    ████████████▓░░░░░░░░░░░░   50.03 % 
-Python     56 mins         ████████▓░░░░░░░░░░░░░░░░   34.86 % 
-JSON       17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Text       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-CSV        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+JSON       17 mins         ████████████████▒░░░░░░░░   65.12 % 
+Python     6 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.64 % 
+CSV        1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
 ```
 <!--END_SECTION:waka-->
 
