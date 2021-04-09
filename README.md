@@ -73,9 +73,7 @@ I also have a blog and you can find my articles on my website at [fertorresmx.de
 
 <!--START_SECTION:waka-->
 ```text
-JSON       17 mins         ███████████████████░░░░░░   75.75 % 
-Python     3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-CSV        1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+
 ```
 <!--END_SECTION:waka-->
 
