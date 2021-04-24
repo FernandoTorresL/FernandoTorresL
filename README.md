@@ -96,8 +96,8 @@ Other   3 mins          █▒░░░░░░░░░░░░░░░░�
 
 <img src="https://komarev.com/ghpvc/?username=FernandoTorresL">
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/FernandoTorresL/FernandoTorresL)](https://github.com/FernandoTorresL/FernandoTorresL/commits/main)
-[![GitHub repo size](https://img.shields.io/github/repo-size/FernandoTorresL/FernandoTorresL)](https://github.com/FernandoTorresL/FernandoTorresL)
+[![GitHub last commit](https://img.shields.io/github/last-commit/FernandoTorresL/FernandoTorresL)](https://github.com/FernandoTorresL/FernandoTorresL/commits/main?target=_blank)
+[![GitHub repo size](https://img.shields.io/github/repo-size/FernandoTorresL/FernandoTorresL)](https://github.com/FernandoTorresL/FernandoTorresL?target=_blank)
 
 <!--   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoTorresL&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
