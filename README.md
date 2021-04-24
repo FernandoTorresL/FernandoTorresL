@@ -19,11 +19,11 @@
 - 🤔 I’m looking for help with time management
 - 💬 Ask me about anything I can help
 - 🏫 Right now teaching about Tableau basic just for fun
-- ⚡ Fun facts: Love YNAB, FSX, I'm virtual pilot/ATC on IVAO network, solve rubik on two minutes.
+- ⚡ Fun facts: Love modern boardgames, YNAB, FSX, I'm virtual pilot/ATC on IVAO network, solve rubik on two minutes...
 
 <p align='justify'>
     Welcome to my GitHub profile. I want to become a Data Scientist and to colaborate in bussiness apassionated for web technologies, math applications and data solutions. I love to learn new things everyday.
-    I'm a Platzi Master program student at <a href="https://platzi.com/p/fertorresmx/" />Platzi</a> on a Data Science and fullstack path. Platzi Master is an exclusive an intensive training and technical coaching program only for top best students.
+    I was a Platzi Master program student at <a href="https://platzi.com/p/fertorresmx/" />Platzi</a> on a Data Science and fullstack path for 16 months. Platzi Master is an exclusive an intensive training and technical coaching program only for top best students.
 </p>
 
 <h2 align="justify">🔧 Technologies & Tools</h2>
@@ -95,7 +95,6 @@ Other   3 mins          █▒░░░░░░░░░░░░░░░░�
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=FernandoTorresL">
-<br>
 <br>
 
 <a href="https://github.com/FernandoTorresL/FernandoTorresL/commits/main" target="_blank">![GitHub last commit](https://img.shields.io/github/last-commit/FernandoTorresL/FernandoTorresL)</a>
