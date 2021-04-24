@@ -96,8 +96,8 @@ JSON       38 mins         █░░░░░░░░░░░░░░░░�
 
 <img src="https://komarev.com/ghpvc/?username=FernandoTorresL">
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/FernandoTorresL/FernandoTorresL)](https://github.com/FernandoTorresL/FernandoTorresL/commits/master)
-[![GitHub repo size](https://img.shields.io/github/repo-size/FernandoTorresL/FernandoTorresL)](https://github.com/FernandoTorresL/FernandoTorresL/archive/master.zip)
+[![GitHub last commit](https://img.shields.io/github/last-commit/FernandoTorresL/FernandoTorresL)](https://github.com/FernandoTorresL/FernandoTorresL/commits/main)
+[![GitHub repo size](https://img.shields.io/github/repo-size/FernandoTorresL/FernandoTorresL)](https://github.com/FernandoTorresL/FernandoTorresL)
 
 <!--   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoTorresL&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
