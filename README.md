@@ -62,24 +62,24 @@ I also have a blog and you can find my articles on my website at [fertorresmx.de
 ![WakaTime](https://img.shields.io/static/v1?style=for-the-badge&message=WakaTime&color=000000&logo=WakaTime&logoColor=FFFFFF&label=)
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 
+
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoTorresL&show_icons=true&theme=tokyonight">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FernandoTorresL&layout=compact&langs_count=8&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=fertorresmx&theme=tokyonight&show_icons=true&layout=compact&range=last_7_days&custom_title=Wakatime+Stats+-+Last+7  days&show_icons=true">
+</div>
+
+<h3 align="justify">Last 7 days</h3>
+
 <!--START_SECTION:waka-->
 ```text
-Python     5 hrs 7 mins    ████████▒░░░░░░░░░░░░░░░░   33.59 % 
-Markdown   4 hrs 24 mins   ███████▒░░░░░░░░░░░░░░░░░   28.83 % 
-Bash       4 hrs           ██████▓░░░░░░░░░░░░░░░░░░   26.20 % 
-CSV        38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-JSON       38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Bash    59 mins         ███████████████████████▓░   94.40 % 
+Other   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
 ```
 <!--END_SECTION:waka-->
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoTorresL&show_icons=true&theme=tokyonight">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=fertorresmx&theme=tokyonight&show_icons=true&layout=compact&range=last_7_days&custom_title=Wakatime+Stats+-+Last+7  days&show_icons=true">
-</div>
-
-<div align="center">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=FernandoTorresL&theme=black-ice&fire=6600AF&currStreakNum=6600AF&ring=6600AF&currStreakLabel=6600AF">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FernandoTorresL&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 <br>
 
