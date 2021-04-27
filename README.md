@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently coding on [WordCloud conferences analysis](https://github.com/FernandoTorresL/scraping-conferencias/)
 - 🧑🏽‍💼 I’m currently working at [IMSS](http://www.imss.gob.mx/)
-- 🌱 I’m currently learning to become a better Developer and a Data Scientist
+- 🌱 I’m currently learning to become better developer and a Data Scientist
 - 🤔 I’m looking for help with time management
 - 💬 Ask me about anything I can help
 - ⚡ Fun facts: Love modern boardgames, YNAB, FSX, I'm virtual pilot/ATC on IVAO network, solve rubik on two minutes...
