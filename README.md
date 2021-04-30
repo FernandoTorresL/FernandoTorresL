@@ -49,7 +49,7 @@
 
 
 <h2 align="justify">&#x270d; Blog & Writing </h2> 
-I also have a blog and you can find my articles on my website at [fertorresmx.dev](https://fertorresmx.dev/) as well as on a personal ghost [blog](https://torresmx.dev/)
+I also have a blog and you can find my articles on my website at <a href="https://fertorresmx.dev/" target="_blank"/>fertorresmx.dev</a> as well as on a personal ghost <a href="https://torresmx.dev/" target="_blank"/>blog</a>
 
 <!-- <h2 align="justify">🧩 Hacker Rank Badges</h2>
 <div align="justify">
