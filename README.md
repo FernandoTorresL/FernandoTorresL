@@ -72,9 +72,8 @@ I also have a blog and you can find my articles on my website at <a href="https:
 
 <!--START_SECTION:waka-->
 ```text
-Git Config   15 mins         ██████████████░░░░░░░░░░░   55.85 % 
-Bash         9 mins          ████████▒░░░░░░░░░░░░░░░░   32.76 % 
-Other        3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Bash    9 mins          ██████████████████▓░░░░░░   74.20 % 
+Other   3 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.80 % 
 ```
 <!--END_SECTION:waka-->
 
