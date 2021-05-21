@@ -72,7 +72,7 @@ I also have a blog and you can find my articles on my website at <a href="https:
 
 <!--START_SECTION:waka-->
 ```text
-CSV    14 mins         ████████████████████████▒   97.47 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
