@@ -72,7 +72,8 @@ I also have a blog and you can find my articles on my website at <a href="https:
 
 <!--START_SECTION:waka-->
 ```text
-Bash   5 mins          █████████████████████████   100.00 % 
+Markdown   20 mins         ███████████████████▒░░░░░   77.22 % 
+Bash       5 mins          █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
 ```
 <!--END_SECTION:waka-->
 
