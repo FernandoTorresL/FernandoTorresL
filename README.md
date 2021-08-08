@@ -72,8 +72,10 @@ I also have a blog and you can find my articles on my website at <a href="https:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   20 mins         ███████████████████▒░░░░░   77.22 % 
-Bash       5 mins          █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
+Markdown     55 mins         ████████████░░░░░░░░░░░░░   48.19 % 
+Python       48 mins         ██████████▓░░░░░░░░░░░░░░   42.50 % 
+Git Config   8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Text         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 ```
 <!--END_SECTION:waka-->
 
