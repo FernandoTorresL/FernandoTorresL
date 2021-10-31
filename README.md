@@ -68,7 +68,7 @@ I also have a blog and you can find my articles on my website at <a href="https:
     <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=fertorresmx&theme=tokyonight&show_icons=true&layout=compact&range=last_7_days&custom_title=Wakatime+Stats+-+Last+7  days&show_icons=true">
 </div>
 
-<h3 align="justify">Last 7 days</h3>
+<h3 align="justify">Last 6 days</h3>
 
 <!--START_SECTION:waka-->
 ```text
