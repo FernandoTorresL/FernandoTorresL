@@ -85,6 +85,11 @@ CSV      31 mins         █▒░░░░░░░░░░░░░░░░�
 </div>
 <br>
 
+<div align="center">
+    <img height="180em" src="https://github-streakstats-fertorresmx.herokuapp.com/?user=FernandoTorresL&theme=black-ice&fire=6600AF&currStreakNum=6600AF&ring=6600AF&currStreakLabel=6600AF">
+</div>
+<br>
+
 <p align="center">
     <a href="https://www.buymeacoffee.com/fertorresmx"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=fertorresmx&button_colour=5F7FFF&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></a>
 </p>
