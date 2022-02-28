@@ -71,12 +71,14 @@ I also have a blog and you can find my articles on my website at <a href="https:
 <h3 align="justify">Last 6 days</h3>
 
 <!--START_SECTION:waka-->
+
 ```text
-SQL     1 hr 14 mins    ████████████░░░░░░░░░░░░░   48.38 % 
-Text    1 hr 7 mins     ███████████░░░░░░░░░░░░░░   43.90 % 
-CSV     6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-Other   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Text    2 hrs 16 mins   █████████████░░░░░░░░░░░░   52.13 %
+SQL     1 hr 53 mins    ███████████░░░░░░░░░░░░░░   43.35 %
+CSV     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+Other   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 ```
+
 <!--END_SECTION:waka-->
 
 <!--
