@@ -73,12 +73,12 @@ I also have a blog and you can find my articles on my website at <a href="https:
 <!--START_SECTION:waka-->
 
 ```text
-Text         3 hrs 16 mins   ███████▒░░░░░░░░░░░░░░░░░   29.87 %
-SQL          1 hr 41 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.48 %
-Java         1 hr 33 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.24 %
-PHP          1 hr 23 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
-CSV          1 hr 2 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
-Markdown     27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+Text         2 hrs 18 mins   ███████▒░░░░░░░░░░░░░░░░░   29.36 %
+Java         1 hr 33 mins    █████░░░░░░░░░░░░░░░░░░░░   19.86 %
+SQL          1 hr 30 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.29 %
+PHP          1 hr 3 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 %
+JavaScript   21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+CSV          17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
 ```
 
 <!--END_SECTION:waka-->
