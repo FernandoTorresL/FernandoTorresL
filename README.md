@@ -73,8 +73,8 @@ I also have a blog and you can find my articles on my website at <a href="https:
 <!--START_SECTION:waka-->
 
 ```text
-Text     1 hr 29 mins    ███████▓░░░░░░░░░░░░░░░░░   31.04 %
-Other    1 hr 11 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.76 %
+Text     1 hr 31 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.98 %
+Other    1 hr 11 mins    █████░░░░░░░░░░░░░░░░░░░░   19.50 %
 ```
 
 <!--END_SECTION:waka-->
