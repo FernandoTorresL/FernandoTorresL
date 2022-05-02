@@ -13,12 +13,12 @@
 
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently coding on [WordCloud conferences analysis](https://github.com/FernandoTorresL/scraping-conferencias/)
+- 🔭 I’m currently coding on [Portal Web DSPA-IMSS](https://github.com/FernandoTorresL/portal_web_dspa/)
 - 🧑🏽‍💼 I’m currently working at [IMSS](http://www.imss.gob.mx/)
 - 🌱 I’m currently learning to become better developer and a Data Scientist
 - 🤔 I’m looking for help with time management
 - 💬 Ask me about anything I can help
-- ⚡ Fun facts: Love modern boardgames, YNAB, FSX, I'm virtual pilot/ATC on IVAO network, solve rubik on two minutes...
+- ⚡ Fun facts: Love modern boardgames, work with Hirst Arts molds, YNAB, FSX, I'm virtual pilot/ATC on IVAO network, solve rubik on two minutes...
 
 <p align='justify'>
     Welcome to my GitHub profile. I want to become a Data Scientist and to colaborate in bussiness apassionated for web technologies, math applications and data solutions. I love to learn new things everyday.
