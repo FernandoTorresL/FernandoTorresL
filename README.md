@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently coding on [Portal Web DSPA-IMSS](https://github.com/FernandoTorresL/portal_web_dspa/)
 - 🧑🏽‍💼 I’m currently working at [IMSS](http://www.imss.gob.mx/)
-- 🌱 I’m currently learning to become better developer and a Data Scientist
+- 🌱 I’m currently learning to become a better developer and a Data Scientist
 - 🤔 I’m looking for help with time management
 - 💬 Ask me about anything I can help
 - ⚡ Fun facts: Love modern boardgames, work with Hirst Arts molds, YNAB, FSX, I'm virtual pilot/ATC on IVAO network, solve rubik on two minutes...
