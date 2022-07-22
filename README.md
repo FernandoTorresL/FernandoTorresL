@@ -13,7 +13,7 @@
 
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently coding on [Portal Web DSPA-IMSS](https://github.com/FernandoTorresL/portal_web_dspa/)
+- 🔭 I’m currently coding on [Portal Web DSPA-IMSS](https://github.com/FernandoTorresL/web_dspa/)
 - 🧑🏽‍💼 I’m currently working at [IMSS](http://www.imss.gob.mx/)
 - 🌱 I’m currently learning to become a better developer and a Data Scientist
 - 🤔 I’m looking for help with time management
