@@ -73,10 +73,11 @@ I also have a blog and you can find my articles on my website at <a href="https:
 <!--START_SECTION:waka-->
 
 ```text
-Text             6 hrs 16 mins   ███████▓░░░░░░░░░░░░░░░░░   30.98 %
-Blade Template   5 hrs 54 mins   ███████▒░░░░░░░░░░░░░░░░░   29.15 %
-PHP              3 hrs 16 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.14 %
-Other            2 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
+Python           5 hrs 38 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.95 %
+Text             5 hrs           █████▓░░░░░░░░░░░░░░░░░░░   22.11 %
+Blade Template   4 hrs 19 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.15 %
+PHP              3 hrs 14 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 %
+Other            2 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
 ```
 
 <!--END_SECTION:waka-->
