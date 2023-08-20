@@ -73,10 +73,11 @@ I also have a blog and you can find my articles on my website at <a href="https:
 <!--START_SECTION:waka-->
 
 ```txt
-CSV      18 mins         █████████░░░░░░░░░░░░░░░░   36.26 %
-Python   16 mins         ████████░░░░░░░░░░░░░░░░░   32.22 %
-Text     12 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.81 %
-Other    3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
+CSV      18 mins         █████████░░░░░░░░░░░░░░░░   35.46 %
+Python   17 mins         ████████▒░░░░░░░░░░░░░░░░   33.41 %
+Text     12 mins         ██████░░░░░░░░░░░░░░░░░░░   24.32 %
+Other    3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+TSQL     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
