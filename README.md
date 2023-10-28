@@ -73,10 +73,11 @@ I also have a blog and you can find my articles on my website at <a href="https:
 <!--START_SECTION:waka-->
 
 ```txt
-Bash    9 mins          █████████████▓░░░░░░░░░░░   54.64 %
-Ezhil   5 mins          ███████▓░░░░░░░░░░░░░░░░░   30.67 %
-INI     2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 %
-Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Other        36 mins         █████████░░░░░░░░░░░░░░░░   35.46 %
+Text         29 mins         ███████▒░░░░░░░░░░░░░░░░░   28.79 %
+Bash         15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.01 %
+INI          7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
+Ezhil        5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
 ```
 
 <!--END_SECTION:waka-->
