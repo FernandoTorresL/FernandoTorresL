@@ -82,14 +82,6 @@ XML      29 mins         ██▒░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<!--
-COMMENT THIS SECTION TO USE MY PERSONAL HEROKUAPP WITH CORRECT TIMEZONE
-<div align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=FernandoTorresL&theme=black-ice&fire=6600AF&currStreakNum=6600AF&ring=6600AF&currStreakLabel=6600AF">
-</div>
-<br>
--->
-
 <div align="center">
     <img height="180em" src="https://github-streakstats-fertorresmx.herokuapp.com/?user=FernandoTorresL&theme=black-ice&fire=6600AF&currStreakNum=6600AF&ring=6600AF&currStreakLabel=6600AF">
 </div>
