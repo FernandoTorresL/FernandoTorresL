@@ -13,16 +13,19 @@
 
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently coding on [Portal Web DSPA-IMSS](https://github.com/FernandoTorresL/web_dspa/)
-- 🧑🏽‍💼 I’m currently working at [IMSS](http://www.imss.gob.mx/)
-- 🌱 I’m currently learning to become a better developer and a Data Scientist
-- 🤔 I’m looking for help with time management
-- 💬 Ask me about anything I can help
-- ⚡ Fun facts: Love modern boardgames, work with Hirst Arts molds, YNAB, FSX, I'm virtual pilot/ATC on IVAO network, solve rubik on two minutes...
+👋 Welcome to My GitHub Profile
+
+- 🧑🏽‍💼 I'm working at the Mexican Social Security Institute ([IMSS](http://www.imss.gob.mx/) - Instituto Mexicano del Seguro Social)
+- 🔭 I’m currently developing the Web Portal DSPA [Portal Web DSPA-IMSS](https://github.com/FernandoTorresL/web_dspa/), and several other projects at IMSS
+- 🌱 I'm learning to become a better developer and aspiring Data Scientist
+- 🤔 I'm currently looking for ways to improve my time management
+- 💬 Feel free to ask me about anything I can help with!
+- ⚡ Fun facts: I enjoy modern board games, crafting with Hirst Arts molds, budgeting with YNAB, and flying virtually on the IVAO network as a pilot/ATC. I can also solve a Rubik’s Cube in under two minutes!
 
 <p align='justify'>
-    Welcome to my GitHub profile. I want to become a Data Scientist and to colaborate in bussiness apassionated for web technologies, math applications and data solutions. I love to learn new things everyday.
-    I was a Platzi Master program student at <a href="https://platzi.com/p/fertorresmx/" />Platzi</a> on a Data Science and fullstack path for 16 months. Platzi Master is an exclusive an intensive training and technical coaching program only for top best students.
+I'm passionate about web technologies, applied mathematics, and data-driven solutions. I'm eager to collaborate with businesses that value innovation and continuous learning.
+
+I studied for 16 months in the <a href="https://platzi.com/p/fertorresmx/" />Platzi</a> Master Program, an intensive training and technical coaching experience for top-performing students, focused on Data Science and Full-Stack Development.
 </p>
 
 <h2 align="justify">🔧 Technologies & Tools</h2>
