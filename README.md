@@ -76,11 +76,9 @@ I also have a blog and you can find my articles on my website at <a href="https:
 <!--START_SECTION:waka-->
 
 ```txt
-Python               25 mins         ████████████░░░░░░░░░░░░░   47.94 %
-JSON with Comments   14 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.21 %
-Other                10 mins         █████░░░░░░░░░░░░░░░░░░░░   20.05 %
-CSV                  2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
-JSON                 0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Python   25 mins         ██████████████▒░░░░░░░░░░   57.79 %
+CSV      12 mins         ███████░░░░░░░░░░░░░░░░░░   27.51 %
+Other    6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.70 %
 ```
 
 <!--END_SECTION:waka-->
